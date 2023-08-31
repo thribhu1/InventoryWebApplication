@@ -1,0 +1,2 @@
+# InventoryWebApplication
+UsingFastAPI
